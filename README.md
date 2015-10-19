@@ -1,2 +1,2 @@
 # testMerge
-＃ one
+＃ one new master.
