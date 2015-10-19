@@ -1,2 +1,2 @@
 # testMerge
-＃ one new master.
+＃ this is a second branch
