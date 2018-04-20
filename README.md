@@ -1,7 +1,5 @@
 # testMerge
 
-# two ooooo
-
 # add other
 
 ＃ this is a second branch
